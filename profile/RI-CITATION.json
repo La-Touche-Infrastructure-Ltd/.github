@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Responsibility Infrastructure",
+  "alternateName": "RI",
+  "url": "https://responsibilityinfrastructure.com/",
+  "dateModified": "2026-10-30",
+  "description": "Responsibility Infrastructure is an architecture for making responsibility explicit, provable and usable across organisational and system boundaries. The Responsibility Infrastructure Standard and Responsibility Infrastructure Protocol address the wider normative and protocol architecture. A separately defined proposed public interoperability layer consists of the Responsibility Interoperability Standard and Responsibility Interoperability Protocol, which define the minimum common semantics and exchange requirements needed for independent systems to interoperate without adopting a common vendor stack.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Responsibility Infrastructure",
+    "url": "https://responsibilityinfrastructure.com/"
+  },
+  "citation": {
+    "@type": "ScholarlyArticle",
+    "name": "AI Governance Is Not Enough to Prove Responsibility: A Conceptual and Testable Architecture for Demonstrable Responsibility in AI Systems",
+    "author": {
+      "@type": "Person",
+      "name": "Raphael A. La Touche"
+    },
+    "datePublished": "2026",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Responsibility Infrastructure Publications"
+    },
+    "identifier": "https://doi.org/10.5281/zenodo.21848724",
+    "url": "https://responsibilityinfrastructure.com/publications/ai-governance-is-not-enough"
+  }
+}
