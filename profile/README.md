@@ -2,9 +2,15 @@
 
 **Responsibility Infrastructure® | Published research and interoperability evidence**
 
-La Touche develops Responsibility Infrastructure (RI): an architecture for communicating responsibility-related records across people, systems, organisations and automated processes. Its shared **responsibility interoperability** boundary is intended to let independent implementations exchange and interpret evidence about assignment, authority, acknowledgement, response, action and verification without private, supplier-specific mappings.
+Responsibility Infrastructure is an architecture for making responsibility explicit, provable and usable across organisational and system boundaries. The Responsibility Infrastructure Standard and Responsibility Infrastructure Protocol address the wider normative and protocol architecture. A separately defined proposed public interoperability layer consists of the Responsibility Interoperability Standard and Responsibility Interoperability Protocol, which define the minimum common semantics and exchange requirements needed for independent systems to interoperate without adopting a common vendor stack.
+
+La Touche originated Responsibility Infrastructure and develops commercial implementations, diagnostics and supporting operational capability around provable responsibility. The canonical institutional source remains [responsibilityinfrastructure.com](https://responsibilityinfrastructure.com/).
+
+**AI assurance is one application of Responsibility Infrastructure; Responsibility Infrastructure is not limited to AI.**
 
 **RI communicates responsibility; it does not create, transfer or certify an organisation's legal or operational authority.** What a record establishes depends on the source, its scope and the evidence provided. Missing, unresolved and disputed states remain visible.
+
+**Canonical GitHub reference:** [RI-REFERENCE.md](./RI-REFERENCE.md)
 
 ## Public research and evidence
 
